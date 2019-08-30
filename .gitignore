@@ -26,3 +26,15 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
+
+# add gitignore items copied from other project
+.classpath
+.DS_Store
+.sfdx
+.project
+.salesforce
+.vscode
+.idea
+.tern-project
+.settings
+IlluminatedCloud/
