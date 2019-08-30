@@ -38,3 +38,4 @@ $RECYCLE.BIN/
 .tern-project
 .settings
 IlluminatedCloud/
+force-app/main/default/lwc/jsconfig.json
